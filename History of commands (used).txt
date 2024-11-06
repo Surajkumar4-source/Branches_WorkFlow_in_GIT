@@ -1,0 +1,92 @@
+dhpcsa@DHPCSA18 MINGW64 ~/Desktop/github (main)
+$ history
+    1  cd ~
+    2  cd /d
+    3  git sstus
+    4  git ststus
+    5  git status
+    6  ls
+    7  ls
+    8  mkdir gitdemo
+    9  cd gitdemo/
+   10  pwd
+   11  nano index.html
+   12  ls
+   13  git init
+   14  ls
+   15  git add .
+   16  ls
+   17  git commit -m "first commit"
+   18  git status
+   19  pwd
+   20  nano index.html
+   21  git add .
+   22  git commit -m "edited"
+   23  ls
+   24  git restore
+   25  git restore index.html
+   26  ls
+   27  cat index.html
+   28  git restore index.html
+   29  cat index.html
+   30  git branch
+   31  git branch hello
+   32  ls
+   33  git branch
+   34  git branch -d
+   35  git branch -d hello
+   36  git branch
+   37  ls
+   38  git branch -d hello
+   39  ls
+   40  nano index.html
+   41  ls
+   42  cat index.html
+   43  nano index.html
+   44  ls
+   45  mkdir github
+   46  cd github/
+   47  git branch
+   48  touch master.txt
+   49  ls
+   50  git init
+   51  ls -all
+   52  git add .
+   53  ls
+   54  git commit -m "first commit"
+   55  git push origin main
+   56  git push origin master
+   57  git branch -M main
+   58  git remote add origin https://github.com/codeshare-ByRakesh/demo.git
+   59*
+   60  git branch suraj
+   61  git branch
+   62  ls
+   63  git checkout suraj
+   64  git branch
+   65  nano filefromsuraj_branch.txt
+   66  ls
+   67  git branch
+   68  ls
+   69  git add .
+   70  git commit -m "2nd commit"
+   71  git push origin main
+   72  git merge suraj
+   73  git push origin suraj
+   74  git checkout main
+   75  git branch
+   76  git pull origin main
+   77  git merge suraj
+   78  git add '/d/cloud daywise material/vpc'
+   79  pwd
+   80  git branch
+   81  git add .
+   82  ls
+   83  cd vpc/
+   84  ls
+   85  cd ..
+   86  git commit -m "faltu commit"
+   87  git push origin main
+   88  git pull origin main
+   89  git push origin main
+   90  history
